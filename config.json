@@ -1,0 +1,39 @@
+{
+    "data": {
+        "store"     : "Luxury Nail Spa",
+        "slug"      : "luxury-nail-spa",
+        "phone"     : "(202) 621-7818",
+        "email"     : "lantran08974@gmail.com",
+        "address"   : "429 L'Enfant Plaza SW #330A Washington, DC 20024",
+        "time_1"    : "[Mon - Sat] 10:00 AM - 7:00 PM",
+        "time_2"    : "[Sun] Closed"
+
+    },
+    "url":  {
+        "facebook"  :   "https://www.facebook.com/sen.luxurynailsspa",
+        "instagram" :   "https://www.instagram.com/sen.luxurynailsspa/",
+        "google"    :   "https://goo.gl/maps/LUyBGm6i4X9pQofV8", 
+        "booking"   :   "https://www.lldtek.com/salon/appt/NDc1NjR8bHV4dXJ5MzMwYXxEQ18wNzk4Mnw4YTBjZmI5YzRhMjY0ZjBmMWU3ZTIxZjYzNzZjNDQwNg==",
+        "maps"      :   "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12422.987281369737!2d-77.0245381!3d38.884034!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xe368291171f8062b!2sSEN%20Luxury%20Nails%20Spa%20in%20L%E2%80%99Enfant%20Plaza%2C%20Washington%20DC!5e0!3m2!1sen!2s!4v1666268576582!5m2!1sen!2s"
+    },
+    "color": {
+        "primary"               :   "#c02d1c",
+        "primary_light"         :   "#EEECE3",
+        "primary_hover"         :   "#ea3621",
+        "secondary"             :   "#751e14",
+        "secondary_hover"       :   "#fff886",
+        "text_primary"          :   "#FFFFFF",
+        "text_primary_hover"    :   "#FFFFFF",
+        "text_secondary"        :   "#FFFFFF",
+        "text_secondary_hover"  :   "#FFFFFF",
+        "text_title"            :   "#429D64",
+        "text_title_hover"      :   "#90C73E"
+    },
+    "debug":        "off",
+    "path_image":   "img",
+    "domain":       "http://127.0.0.1:5500/"
+}
+
+
+
+
